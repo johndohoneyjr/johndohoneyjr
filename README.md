@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Welcome to johndohoneyjr Github Repos 👋
 
 [![GitHub Org's stars](https://img.shields.io/github/stars/johndohoneyjr?style=social)](https://github.com/johndohoneyjr)
