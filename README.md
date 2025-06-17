@@ -20,9 +20,9 @@
 [![Last Commit](https://img.shields.io/github/last-commit/johndohoneyjr/johndohoneyjr?style=flat-square)](https://github.com/johndohoneyjr/johndohoneyjr/commits/main)
 
 
-## 🌟 About Us
+## 🌟 About Me
 
-We are a team of passionate developers, builders, and creators. Our mission is to create impactful and inspiring open-source projects.
+I am a passionate developer, cloud architect, and creator. My mission is to create impactful and inspiring open-source projects that support my custoemrs Azure journey.
 
 - 🔭 Currently working on: Helping people migrate to Azure or helping people with Azure technology.
 - 💬 Ask us about: GitHub, open source, and software development!
